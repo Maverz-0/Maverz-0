@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Maverz 👋</h1>
+<p align="center">
+  Welcome to my GitHub profile.
+</p>
 
-<!--
-**Maverz-0/Maverz-0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Passionate about building useful software and learning by shipping.
+- 🌱 Currently exploring new technologies and improving every day.
+- 🤝 Open to collaboration on interesting projects.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Maverz-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Maverz-0&show_icons=true&theme=transparent)
+
+## 📫 Connect
+- GitHub: [@Maverz-0](https://github.com/Maverz-0)
