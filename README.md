@@ -8,7 +8,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🧠 Me enfoco en un **enfoque analítico**, con experiencia en la creación de **modelos predictivos** y **análisis exploratorio de datos**.
+- 🧠 Tengo un **enfoque analítico**, con experiencia en la creación de **modelos predictivos** y **análisis exploratorio de datos**.
 - 🎯 Mi objetivo es impulsar la toma de decisiones estratégicas basadas en la **optimización matemática** y el razonamiento objetivo.
 - 🗣️ Me apasiona extraer valor de conjuntos de datos complejos y traducirlos en soluciones de negocio viables, comunicando conceptos técnicos de forma clara a cualquier audiencia.
 - 🎓 Actualmente estudio **Data Science and AI** en la Universidad Politécnica de Madrid (2024 - 2026).
